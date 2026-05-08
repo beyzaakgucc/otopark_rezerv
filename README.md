@@ -30,12 +30,21 @@ Flutter kullanılarak geliştirilmiştir.
 
 ## 📱 Uygulama Görselleri
 
+### Ana Sayfa
+![Home](images/home.png)
 
-### Rezervasyon Ekranı
+### Detay Sayfası
+![Detail](images/detail.png)
 
-<img width="300" alt="Uygulama Görseli" src="BURAYA_GORSEL_LINKI_GELECEK">
+### Boş Park Alanları
+![Free](images/free.png)
 
----
+### Rezervasyon
+![Reservation](images/reservation.png)
+
+### Rezervasyon 2
+![Reservation 2](images/reservation2.png)
+
 
 ## 🚀 Kurulum
 
